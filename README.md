@@ -1,2 +1,4 @@
 # Data-Project
-data analytic projects
+🔔 data analytic projects from my personal interests
+
+## 1. Financial Ratio Dashboard & Benchmarking - Retail industry in Thailand
