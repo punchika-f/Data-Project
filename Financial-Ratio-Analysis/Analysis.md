@@ -2,6 +2,8 @@
 
 This document presents a brief analysis of key financial ratio for top three Thai retail companies (CPALL, BJC, and HMPRO) for the period from Y2022–Y2024.
 
+🗃️[View Project Dashboard (PDF)](financial_ratio_Retail_Visualization.pdf)
+
 ---
 
 ## 🧠 1. Overview of Key Ratios
