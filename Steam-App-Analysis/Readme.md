@@ -1,6 +1,7 @@
+
 # 🎮 Steam Game Analysis Dashboard
 
-An interactive Power BI dashboard project that analyzes player behavior and game popularity in Last 2 weeks on Steam. This project showcases data visualization skills using real-world gaming data.
+An interactive Power BI dashboard project that analyzes player behavior and game popularity in 2 weeks (5-18 May 2025) on Steam. This project showcases data visualization skills using real-world gaming data.
 
 ---
 
